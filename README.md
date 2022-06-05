@@ -2,6 +2,14 @@
 
 **You Can Simply Use This Project To Convert Any Text To Morse Code And Do Anything That You Want !**
 
+## Installation
+
+```
+git clone https://github.com/Arshiatmi/Morse
+cd Morse
+python example.py # Run your Code Here
+```
+
 ## Usage
 
 ```
